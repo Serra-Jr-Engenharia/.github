@@ -25,7 +25,7 @@
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
  
 <div><br>
-  <a href="https://github.com/guilhermecf10">
+  <a href="https://github.com/serrajrengenharia">
   <img align="center" alt="Gui-Js" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   <img align="center" alt="Gui-Ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
   <img align="center" alt="Gui-Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -40,8 +40,6 @@
   <img align="center" alt="Gui-MYSQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
   <img align="center" alt="Gui-Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img align="center" alt="Gui-Selenium" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white">
-   
-   	
  </a>
   
 </div>
@@ -49,20 +47,16 @@
   ##
   
 <div><br>
- <a href="https://www.linkedin.com/in/guilherme-fialho-90b050200/" target="_blank">
+ <a href="https://www.linkedin.com/company/serrajreng/?originalSubdomain=br" target="_blank">
    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
  </a> 
- <a href="https://guilhermecf10.github.io" target="_blank">
+ <a href="https://www.serrajr.eng.br" target="_blank">
    <img src="https://img.shields.io/badge/Website-%2336465D.svg?&style=for-the-badge&logo=Tumblr&logoColor=white" target="_blank">
  </a>
- 
- <a href="https://discord.gg/4ns4dbYWT2" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
- </a> 
-                                                                                                                           
- <a href="mailto:guilhermec.fialho@gmail.com">
+                                                                                                                  
+ <a href="mailto:serrajr@iprj.uerj.br">
    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
  </a>
  
-  
+
 </div>
